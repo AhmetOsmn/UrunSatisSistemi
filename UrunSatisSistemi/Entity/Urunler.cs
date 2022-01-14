@@ -26,6 +26,7 @@ namespace UrunSatisSistemi.Entity
         public Nullable<byte> UrunKategori { get; set; }
         public Nullable<decimal> UrunFiyat { get; set; }
         public Nullable<short> UrunStok { get; set; }
+        public Nullable<bool> Durum { get; set; }
     
         public virtual Kategoriler Kategoriler { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="UrunSatisSistemi.Admin" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">ÜSS</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link" href="#">Müşteriler</a>
+                    <a class="nav-link" href="KategoriSayfasi.aspx">Kategoriler</a>
+                    <a class="nav-link" href="Urunler.aspx">Ürünler</a>
+                    <a class="nav-link" href="#">Personeller</a>
+                    <a class="nav-link" href="#">Satışlar</a>
+                    <a class="nav-link" href="#">Ayarlar</a>
+                    <a class="nav-link" href="#">Kullanıcı Paneli</a>
+                    <a class="nav-link" href="#">Ürün Paneli</a>
+                    <a class="nav-link" href="#">Çıkış Yap</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <br />
+
+    <div class="container">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+
+</body>
+</html>
+

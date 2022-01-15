@@ -24,7 +24,7 @@
                     <a class="nav-link" href="KategoriSayfasi.aspx">Kategoriler</a>
                     <a class="nav-link" href="UrunSayfasi.aspx">Ürünler</a>
                     <a class="nav-link" href="#">Personeller</a>
-                    <a class="nav-link" href="#">Satışlar</a>
+                    <a class="nav-link" href="SatisSayfasi.aspx">Satışlar</a>
                     <a class="nav-link" href="#">Ayarlar</a>
                     <a class="nav-link" href="#">Kullanıcı Paneli</a>
                     <a class="nav-link" href="#">Ürün Paneli</a>

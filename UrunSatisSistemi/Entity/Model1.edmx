@@ -31,7 +31,7 @@
           <Key>
             <PropertyRef Name="SatisID" />
           </Key>
-          <Property Name="SatisID" Type="int" Nullable="false" />
+          <Property Name="SatisID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="Urun" Type="int" />
           <Property Name="Personel" Type="tinyint" />
           <Property Name="Musteri" Type="int" />

@@ -1,7 +1,8 @@
-# UrunSatisSistemi
-ASP.Net ile pratik projesi.
-
 ![sertifika](https://user-images.githubusercontent.com/44196434/149627036-177a3db0-51b9-471c-83df-bf367ff89c03.jpg)
+
+# UrunSatisSistemi
+---
+ASP.Net ile pratik projesi.
 
 ## Kategoriler
 ![01-Kategoriler](https://user-images.githubusercontent.com/44196434/149576158-970a5ebf-a3ff-40a4-a495-f911faf1e7db.png)

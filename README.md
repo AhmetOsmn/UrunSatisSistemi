@@ -6,3 +6,6 @@ ASP.Net ile pratik projesi.
 
 ## Ürünler
 ![02-UrunIslemleriEklendi](https://user-images.githubusercontent.com/44196434/149589921-8cab689a-d76e-40b1-a8c3-117195b3bef6.png)
+
+## Satış İşlemleri
+![03-SatisYapmaEklendi](https://user-images.githubusercontent.com/44196434/149624094-f608f02a-4782-40da-a19f-d91b030e5555.png)

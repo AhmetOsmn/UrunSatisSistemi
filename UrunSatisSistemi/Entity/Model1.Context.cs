@@ -30,5 +30,6 @@ namespace UrunSatisSistemi.Entity
         public virtual DbSet<Personeller> Personeller { get; set; }
         public virtual DbSet<Satislar> Satislar { get; set; }
         public virtual DbSet<Urunler> Urunler { get; set; }
+        public virtual DbSet<Adminler> Adminler { get; set; }
     }
 }

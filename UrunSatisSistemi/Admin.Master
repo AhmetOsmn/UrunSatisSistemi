@@ -37,7 +37,7 @@
                     <a class="nav-link" href="/Satis/SatisSayfasi.aspx">Satışlar</a>
                     <a class="nav-link" href="/Istatistikler/Istatistikler.aspx">İstatistikler</a>
                     <a class="nav-link" href="#">Ayarlar</a>
-                    <a class="nav-link" href="#">Çıkış Yap</a>
+                    <a class="nav-link" href="/Login/Login.aspx">Çıkış Yap</a>
                 </div>
             </div>
         </div>
